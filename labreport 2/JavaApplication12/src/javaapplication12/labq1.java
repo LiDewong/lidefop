@@ -4,10 +4,7 @@
  */
 package javaapplication12;
 
-/**
- *
- * @author User
- */
+
 import java.util.Scanner;
 public class labq1 {
     pulic static double findmedian(int array){
@@ -16,7 +13,7 @@ public class labq1 {
     }
     public static void main(String[] args) {
         int[] array = new int[]
-                
+        
         findmedian(array[]);
     }
     
